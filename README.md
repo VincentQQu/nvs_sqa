@@ -10,7 +10,7 @@ Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Represent
 You can install the package directly from PyPI:
 
 ```bash
-pip install nvs-sqa
+pip install nvs_sqa
 ```
 
 #### Usage
